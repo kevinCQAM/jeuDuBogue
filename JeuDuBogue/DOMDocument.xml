@@ -7,9 +7,9 @@
           <Include href="mcBibitte.xml" itemID="522f3a73-00000346" lastModified="1378840891"/>
           <Include href="mcBibitteMorte.xml" loadImmediate="false" itemID="522f4adb-0000035e" lastModified="1378840878"/>
           <Include href="mcCorpsBibitte.xml" loadImmediate="false" itemID="522f4a57-00000356" lastModified="1378841021"/>
-          <Include href="mcCycleBibitte.xml" loadImmediate="false" itemID="522f3a78-00000348" lastModified="1378991528"/>
+          <Include href="mcCycleBibitte.xml" loadImmediate="false" itemID="522f3a78-00000348" lastModified="1378992902"/>
           <Include href="mcGameOver.xml" itemID="522f5bf0-000001e2" lastModified="1378836253"/>
-          <Include href="mcTableau.xml" loadImmediate="false" itemID="522f57b2-000001da" lastModified="1378836218"/>
+          <Include href="mcTableau.xml" loadImmediate="false" itemID="522f57b2-000001da" lastModified="1378993116"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Séquence 1">
@@ -25,7 +25,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="mcTableau" name="tableau_mc" selected="true" centerPoint3DX="77.5" centerPoint3DY="43">
+                                        <DOMSymbolInstance libraryItemName="mcTableau" name="tableau_mc" centerPoint3DX="77.5" centerPoint3DY="43">
                                              <matrix>
                                                   <Matrix tx="11" ty="10"/>
                                              </matrix>
