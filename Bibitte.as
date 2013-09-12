@@ -20,7 +20,7 @@
 		}
 		
 		private function tuer(e:Event){
-			removeEventListener(MouseEvent.CLICK, tuer)
+			removeEventListener(MouseEvent.ROLL_OVER, tuer)
 			stop(); //la bibitte arrête de courir!
 			cycleBibitte_mc.gotoAndPlay("meurt"); //la bibitte est écrasée
 			MovieClip(parent).ajouterPoint();
